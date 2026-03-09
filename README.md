@@ -1,5 +1,6 @@
-# 💫 About Me:
-Computer Science Student | AI | ML | Data Enthusiast | Open to Internship<br><br>I am presently enrolled in the Department of Computer Science and Engineering at the International University of Business Agriculture and Technology (IUBAT).
+Hi I'm Md Tuhin Alam Bijoy 
+
+Computer Science Student | AI | ML | DL | Data Enthusiast | Open to Internship<br><br>I am presently enrolled in the Department of Computer Science and Engineering at the International University of Business Agriculture and Technology (IUBAT).
 
 
 ## 🌐 Socials:
